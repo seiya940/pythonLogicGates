@@ -21,5 +21,3 @@ def hnxor(n1,n2,mode=0): #my original
 
 def xnor(n1,n2):
     return not xor(n1,n2)
-
-def
